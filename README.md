@@ -11,6 +11,5 @@ Each monKey corresponds to a unique public key. This means that you are the sole
 When the Unity client replaces the previous texture with the new one the player gets to control a character that no one else has.
 The number of possible 3D monkey combinations is 256^3 * 256^3 = 16,777,216^2 = 281,474,976,710,656
 
-Video preview:
-[Video preview](https://www.youtube.com/watch?v=u20Yzu5T3Ao)
+[Video example](https://www.youtube.com/watch?v=u20Yzu5T3Ao)
 
